@@ -1,0 +1,8 @@
+D:\codes\aula1\aula1\bin\Debug\aula1.exe.config
+D:\codes\aula1\aula1\bin\Debug\aula1.exe
+D:\codes\aula1\aula1\bin\Debug\aula1.pdb
+D:\codes\aula1\aula1\obj\Debug\aula1.csproj.AssemblyReference.cache
+D:\codes\aula1\aula1\obj\Debug\aula1.csproj.SuggestedBindingRedirects.cache
+D:\codes\aula1\aula1\obj\Debug\aula1.csproj.CoreCompileInputs.cache
+D:\codes\aula1\aula1\obj\Debug\aula1.exe
+D:\codes\aula1\aula1\obj\Debug\aula1.pdb
